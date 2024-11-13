@@ -1,0 +1,19 @@
+.main {
+  padding: 1rem;
+}
+.empty {
+  a {
+    display: block;
+    padding: 0px 5px;
+    color: black;
+  }
+}
+.successSnack {
+  background-color: green;
+  color: white;
+  button a {
+    color: #efe1d1 !important;
+    font-size: 12px;
+    text-transform: capitalize;
+  }
+}
